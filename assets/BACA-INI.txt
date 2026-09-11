@@ -1,0 +1,12 @@
+Taruh foto Anda di folder ini dengan nama file berikut agar otomatis muncul di undangan:
+
+foto-pria.jpg     -> foto mempelai pria
+foto-wanita.jpg   -> foto mempelai wanita
+galeri-1.jpg s/d galeri-6.jpg -> foto galeri momen
+
+Selama file belum ada, undangan akan menampilkan foto contoh dari internet secara otomatis (fallback), jadi tampilannya tetap rapi.
+
+Tips ukuran foto agar ringan & cepat dimuat:
+- Foto profil: persegi, minimal 400x400px
+- Foto galeri: minimal 500px di sisi terpanjang
+- Kompres dulu di squoosh.app atau tinypng.com sebelum diupload ke GitHub
